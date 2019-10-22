@@ -1,0 +1,14 @@
+input[type=email]:invalid{
+    border: 1px solid red;
+    background: rgba(173, 30, 30, 0.644);
+}
+
+input{
+    outline: none;
+    margin:5px;
+    box-sizing: border-box;
+}
+
+input[type=submit]{
+    width:100px;
+}
